@@ -43,7 +43,8 @@ The repository is organized as follows:
 ```plaintext  
 root  
 ├── Lecture_Notes/       # Detailed summaries of each session  
-├── Projects/            # Practical implementations and assignments  
+├── Projects/            # Practical implementations and assignments
+├── Resources/           # Additional reading materials and links 
 ├── Resources/           # Additional reading materials and links  
 ├── README.md            # This documentation  
 └── .gitignore           # Ignored files and folders  
