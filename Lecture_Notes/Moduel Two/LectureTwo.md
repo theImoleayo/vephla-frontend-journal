@@ -126,7 +126,7 @@ HTML provides elements for including quotations in web pages.
 ## **HTML Study Guide**  
 For further study on HTML elements and standards, refer to the W3Schools website: [https://www.w3schools.com](https://www.w3schools.com)  
 
----
+
 
 <!-- Additional Notes:  
 - Add real-world examples for attributes, comments, or quotations based on rewatching the lecture.  
