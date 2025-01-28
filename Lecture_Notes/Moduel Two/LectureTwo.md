@@ -131,4 +131,3 @@ For further study on HTML elements and standards, refer to the W3Schools website
 <!-- Additional Notes:  
 - Add real-world examples for attributes, comments, or quotations based on rewatching the lecture.  
 - Expand on "Other HTML Syntax" with examples and use cases. -->
-```
