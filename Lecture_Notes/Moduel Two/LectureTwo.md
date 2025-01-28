@@ -132,11 +132,3 @@ For further study on HTML elements and standards, refer to the W3Schools website
 - Add real-world examples for attributes, comments, or quotations based on rewatching the lecture.  
 - Expand on "Other HTML Syntax" with examples and use cases. -->
 ```
-
----
-
-### **Next Steps**
-1. Watch the lecture again to clarify:
-   - Real-world use cases for `<blockquote>` and `<abbr>`.
-   - Best practices for using comments effectively.  
-2. Consider adding diagrams or screenshots to visually represent the concepts.
