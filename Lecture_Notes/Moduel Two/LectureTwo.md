@@ -134,10 +134,9 @@ For further study on HTML elements and standards, refer to the W3Schools website
 ```
 
 ---
-```
-<!-- ### **Next Steps**
+
+### **Next Steps**
 1. Watch the lecture again to clarify:
    - Real-world use cases for `<blockquote>` and `<abbr>`.
    - Best practices for using comments effectively.  
-2. Consider adding diagrams or screenshots to visually represent the concepts. -->
-```
+2. Consider adding diagrams or screenshots to visually represent the concepts.
