@@ -45,7 +45,8 @@ root
 ├── Lecture_Notes/       # Detailed summaries of each session  
 ├── Projects/            # Practical implementations and assignments
 ├── Resources/           # Additional reading materials and links 
-├── Research/            # Articles and assignments related to research  
+├── Research/            # Articles and assignments related to research
+├── Documentation/       # Personal notes, plans, or learning reflections  
 ├── README.md            # This documentation  
 └── .gitignore           # Ignored files and folders  
 ```  
